@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pallavi Singh</h1>
 <h3 align="center">A girl trying to figure-out stuff👩‍💻.</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=pallavi+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pallavisingh123&label=Profile%20views&color=0e75b6&style=flat" alt="pallavisingh123" /> </p>
 
 - 🔭 I’m currently working on **Girls Script summer of Code (gssoc)**
