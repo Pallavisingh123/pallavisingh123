@@ -2,7 +2,7 @@
 <h3 align="center">A girl trying to figure-out stuff👩‍💻.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pallavisingh123&label=Profile%20views&color=0e75b6&style=flat" alt="pallavisingh123" /> </p>
 
-- 🔭 I’m currently working on **Girls Script summer of Code (gssoc)**
+- 🔭contributor at **Girls Script summer of Code (gssoc22)**
 
 - 🌱 I’m currently learning **Tailwind.css, Framework, Backend , courses etc.**
 
@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/pallavi-singh-1st-238616208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pallavi-singh-1st-238616208/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pallavi-singh-1st-238616208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pallavi-singh-1st-238616208/" height="30" width="40" /></a>
 <a href="https://instagram.com/pallavisingh6392" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pallavisingh6392" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/pallaviaingh_1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/pallaviaingh_1" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/pallavisingh6391" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/pallavisingh6391" height="30" width="40" /></a>
