@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning **Tailwind.css, Framework, Backend , courses etc.**
 
 - 📫 How to reach me **pallavisigh639217@gmail.com**
+-    **https://linktr.ee/SinghPallavi**
 
 - ⚡ Fun fact **I Think i`m funny😊😊**
 
